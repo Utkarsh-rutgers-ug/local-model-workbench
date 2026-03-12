@@ -57,3 +57,4 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 | `OLLAMA_URL` | `http://localhost:11434` | Base URL for the Ollama server |
 | `PORT` | `3001` | Port the Express server listens on |
 
+License may evolve as the project grows.
