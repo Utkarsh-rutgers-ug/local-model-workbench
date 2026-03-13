@@ -15,7 +15,7 @@ local-model-workbench/
 │  │  │  └─ PromptBox.jsx        # Text input + send button
 │  │  ├─ App.jsx                 # Root component & chat logic
 │  │  ├─ main.jsx                # React entry point
-│  │  └─ styles.css              # Global styles
+│  │  └─ styles.css              # Global style
 │  └─ package.json
 ├─ server/
 │  ├─ index.js                   # Express API server
